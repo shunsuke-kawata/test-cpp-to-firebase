@@ -1,0 +1,1 @@
+print("firebase通信を行う関数の実行")
